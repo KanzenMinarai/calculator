@@ -28,4 +28,4 @@ make
 ```
 
 ### License
- this software in under [Zero Clause Bsd License](./LICENSE)
+ this software in under [Zero Clause Bsd License](./LICENSE).
