@@ -26,3 +26,6 @@ cd calculator/
 # execute the software
 make
 ```
+
+### License
+ this software in under [Zero Clause Bsd License](./LICENSE)
