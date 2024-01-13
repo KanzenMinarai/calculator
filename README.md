@@ -6,7 +6,7 @@
 multiplication and division operations.
 
 ### Dependencies
- to install the dependencies here is some of the process
+ depedencies are described below to install the software correctly.
 ```sh
 ### Linux
 # apt
