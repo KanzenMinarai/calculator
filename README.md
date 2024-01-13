@@ -1,6 +1,5 @@
 # Calculator
 
-
 ### About
  a simple software written in the lua programming language that calculates numbers using addition, subtraction
 multiplication and division operations.
