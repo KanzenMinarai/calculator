@@ -25,6 +25,9 @@ cd calculator/
 
 # execute the software
 make
+
+# other way to execute
+lua src/main.lua
 ```
 
 ### License
