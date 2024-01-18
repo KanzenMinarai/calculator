@@ -4,4 +4,4 @@ TARGET = calculator
 all: $(TARGET)
 
 $(TARGET):
-	cd src/ && $(LUA_INTERPRETER) main.lua && cd ..
+  cd src/ && $(LUA_INTERPRETER) main.lua && cd ..
